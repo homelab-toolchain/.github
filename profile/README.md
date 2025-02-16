@@ -1,12 +1,11 @@
-## Hi there 👋
+## Welcome to HomeLab Toolchain!
 
-<!--
+There are open-source tools that make home automation, self-hosting, and homelab projects easier, more efficient, and flexible.
+From infrastructure as code to automation scripts and useful utilities – you’ll find everything you need to run and expand your homelab seamlessly.
 
-**Here are some ideas to get you started:**
+🛠️ What it offers:
+* Tools and scripts for homelab and self-hosting environments
+* Automation solutions for home networks and servers
+* A community of homelab enthusiasts and open-source contributors
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Join, contribute, and let’s improve the HomeLab Toolchain together!
